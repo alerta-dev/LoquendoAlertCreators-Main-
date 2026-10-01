@@ -2133,7 +2133,7 @@ export const renders = [
   },
   {
     title: 'Shotaru Kaneda',
-    description: 'By:   - Anime:Akira',
+    description: 'By: Saro Cosmo - Anime:Akira',
     imageUrl: 'https://static0.cbrimages.com/wordpress/wp-content/uploads/2023/03/shotaro-kaneda-from-akira.jpg?w=1200&h=675&fit=crop',
     downloadUrl: 'https://drive.google.com/file/d/1x0Ud2WBtVNtzRzUO8yf0oeducFNW4RBq/view?usp=drive_link',
   },
